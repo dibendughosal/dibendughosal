@@ -6,6 +6,7 @@
 🌏 Traveling the world
 👗 Fashion
 🎨 Painting
+<br>
 follow me on Social media-
 <a href="https://www.instagram.com/imdibghosal/"><i class="bi bi-instagram"></i></a>
 <!---
