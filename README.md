@@ -1,6 +1,6 @@
  👋 Hi, I’m **@dibendughosal**
 # 💫 About Me:
-i'm currently persuing Bachelor's of Technology in Computer Science and Engineering.<br>i am interested in Web Development and Game Development.<br> I am passionate about finding new and innovative solutions to existing problems.I have the Ability to learn things quickly and capable of working in a fast-paced and team-driven environment. <br>My goal is to become an expert in the field and contribute to the ever-evolving technology world.<br>outside of tech, i am a tea lover, and have spent my college days exploring theatre.<br>
+Currently i'm persuing Bachelor's of Technology in Computer Science and Engineering.<br>i am interested in Web Development and Game Development.<br> I am passionate about finding new and innovative solutions to existing problems.I have the Ability to learn things quickly and capable of working in a fast-paced and team-driven environment. <br>My goal is to become an expert in the field and contribute to the ever-evolving technology world.<br>outside of tech, i am a tea lover, and have spent my college days exploring theatre.<br>
 ## 📚 My Hobbies are Playing cricket,Reading books and Listening Music.<br>
 
 
