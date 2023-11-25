@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @dibendughosal
+ 👋 Hi, I’m @dibendughosal
 - 👀 I’m interested in Software Development...
-- 🌱 I’m currently learning Full Stack Development...
-- 💞️ I’m looking for a job to work with Top MNC's...
-- 📫 Follow me on Social Media...
-
+- Hobbies
+🎭 Doing improve
+🏕 Backpacking
+🌏 Traveling the world
+👗 Fashion
+🎨 Painting
+follow me on Social media-
+<a href="https://www.instagram.com/imdibghosal/"
+              ><i class="bi bi-instagram"></i
+            ></a>
 <!---
 dibendughosal/dibendughosal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
