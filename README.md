@@ -1,4 +1,4 @@
- 👋 Hi, I’m @dibendughosal
+ 👋 Hi, I’m **@dibendughosal**
 # 💫 About Me:
 i'm currently persuing My ug degree bachelor's of technology in Computer Science and Engineering.<br>i am interested in Web Development and Game Development.<br> I am passionate about finding new and innovative solutions to existing problems.<br> I have the Ability to learn things quickly and capable of working in a fast-paced and team-driven environment. <br>My goal is to become an expert in the field and contribute to the ever-evolving technology world.<br>i am a tea lover, and have spent my college days exploring theatre.<br>my Hobbies are Playing cricket,Reading books and Listening Music<br>
 
@@ -16,4 +16,4 @@ i'm currently persuing My ug degree bachelor's of technology in Computer Science
 ---
 [![](https://visitcount.itsvg.in/api?id=dibendughosal&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
