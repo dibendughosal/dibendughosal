@@ -16,5 +16,6 @@ Currently i'm persuing Bachelor's of Technology in Computer Science and Engineer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dibendughosal&icon=0&color=11)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibendughosal&label=Profile%20views&color=0e75b6&style=flat" alt="dibendughosal" /> </p>
 
 
