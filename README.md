@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🌐 My Portfolio [https://dibendughosal.github.io/Dibendu-Ghosal/](https://dibendughosal.vercel.app)
+- 🌐 My Portfolio [https://dibendughosal.vercel.app](https://dibendughosal.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dibendughosal](https://github.com/dibendughosal)
 
