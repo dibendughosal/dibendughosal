@@ -44,11 +44,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibendughosal&show_icons=true&locale=en&layout=compact" alt="dibendughosal" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibendughosal&show_icons=true&locale=en" alt="dibendughosal" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dibendughosal&show_icons=true&locale=en" alt="dibendughosal" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibendughosal&" alt="dibendughosal" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dibendughosal&" alt="dibendughosal" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibendughosal" alt="dibendughosal" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibendughosal" alt="dibendughosal" /></a> </p>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://dibendughosal.vercel.app)
 
