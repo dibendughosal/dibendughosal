@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dibendu Ghosal</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and a great Learner from India. I love exploring new technologies and frameworks and am always eager to learn and improve my skills. Building innovative and user-friendly applications is my passion, and I constantly look for ways to make my code more efficient and scalable. I enjoy experimenting with new programming languages and contributing to open-source projects in my free time.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dibendughosal" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibendughosal&label=Profile%20views&color=0e75b6&style=flat" alt="dibendughosal" /> </p>
