@@ -13,7 +13,7 @@
 
 - 📚 I’m currently Persuing **Bachelor's of Technology in Computer Science and Engineering From Brainware University,Kolkata.**
 
-- 🌱 I’m currently exploring **Full Stack Development, DevOps, Machine Learning etc.**
+- 🌱 I’m currently exploring **DevOps, Machine Learning etc.**
 
 - 🌐 My Portfolio [https://dibendughosal.vercel.app/](https://dibendughosal.vercel.app/)
 
