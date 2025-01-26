@@ -46,9 +46,6 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dibendughosal&" alt="dibendughosal" /></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibendughosal" alt="dibendughosal" /></a> </p>
-
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://dibendughosal.vercel.app)
 
 [![An image of @dibendughosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dibendughosal)](https://holopin.io/@dibendughosal)
