@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dibendu+Ghosal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Dibendu+Ghosal!;" />
 </h1>
 <h3 align="center">A passionate Full-Stack Developer and a great Learner from India.</h3>
 <p>I love exploring new technologies and frameworks and am always eager to learn and improve my skills. Building innovative and user-friendly applications is my passion, and I constantly look for ways to make my code more efficient and scalable. I enjoy experimenting with new programming languages and contributing to open-source projects in my free time.</p>
