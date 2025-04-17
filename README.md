@@ -5,6 +5,7 @@
 </h1>
 <h3 align="center">A passionate Full-Stack Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibendughosal&label=Profile%20views&color=0e75b6&style=flat" alt="dibendughosal" /> </p>
+<p align="left"> <a href="https://x.com/dibyendughosal6" target="blank"><img src="https://img.shields.io/twitter/follow/dibyendughosal6" alt="dibendughosal"  </p>
 <p>I love exploring new technologies and frameworks and am always eager to learn and improve my skills. Building innovative and user-friendly applications is my passion, and I constantly look for ways to make my code more efficient and scalable. I enjoy experimenting with new programming languages and contributing to open-source projects in my free time.</p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dibendughosal" />
 
